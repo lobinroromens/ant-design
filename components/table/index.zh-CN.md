@@ -1,9 +1,8 @@
 ---
 category: Components
-chinese: 表格
 cols: 1
 type: Views
-english: Table
+title: Table
 ---
 
 展示行列数据。
